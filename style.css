@@ -20,3 +20,13 @@
     font-family: "Permanent Marker " , cursive;
     text-align: center;
 }
+
+#restartBtn{
+    border: 3px bold;
+    border-radius: 15px;
+    background-color: rgb(164, 159, 159);
+    height: 35px;
+    width: 75px;
+    font-weight: bold;
+
+}
